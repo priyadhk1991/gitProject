@@ -1,1 +1,4 @@
-*.txt
+/text.txt
+/text2.txt
+
+auto-gen-files/*.txt
